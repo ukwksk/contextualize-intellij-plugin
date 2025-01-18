@@ -1,4 +1,4 @@
-package com.github.ukwksk.contextualizeintellijplugin
+package co.ukwksk.contextualizeIntelliJPlugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
